@@ -8,7 +8,7 @@ DBNAME=zfindb
 # Also added refseq2ncbi.csv (created from querying ncbi api)
 
 echo 'Exporting 6 tables to csv: db_link (limited), marker, to_keep, to_delete, uniprot2ensembl, extnote_note, feature_marker_relationship'
-echo "\copy (select * from db_link where dblink_fdbcont_zdb_id in ( 'ZDB-FDBCONT-040412-36', 'ZDB-FDBCONT-040412-37', 'ZDB-FDBCONT-040412-47', 'ZDB-FDBCONT-040412-42', 'ZDB-FDBCONT-040412-38', 'ZDB-FDBCONT-040412-39', 'ZDB-FDBCONT-110301-1', 'ZDB-FDBCONT-131021-1', 'ZDB-FDBCONT-061018-1','ZDB-FDBCONT-200123-1')) to stdout with csv header"  | psql -h $DBHOST $DBNAME > db_link.csv
+echo "\copy (select * from db_link where dblink_fdbcont_zdb_id in ( 'ZDB-FDBCONT-040412-36', 'ZDB-FDBCONT-040412-37', 'ZDB-FDBCONT-040412-47', 'ZDB-FDBCONT-040412-42', 'ZDB-FDBCONT-040412-38', 'ZDB-FDBCONT-040412-39', 'ZDB-FDBCONT-110301-1', 'ZDB-FDBCONT-131021-1', 'ZDB-FDBCONT-061018-1','ZDB-FDBCONT-200123-1','ZDB-FDBCONT-040412-1')) to stdout with csv header"  | psql -h $DBHOST $DBNAME > db_link.csv
 echo "\copy (select * from uniprot2ensembl) to stdout with csv header"                                     | psql -h $DBHOST $DBNAME > uniprot2ensembl.csv
 echo "\copy (select * from marker) to stdout with csv header"                                              | psql -h $DBHOST $DBNAME > marker.csv
 echo "\copy (select * from to_keep) to stdout with csv header"                                             | psql -h $DBHOST $DBNAME > to_keep.csv
