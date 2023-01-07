@@ -1,0 +1,839 @@
+extnote_zdb_id,extnote_data_zdb_id,extnote_note,extnote_note_type,extnote_source_zdb_id,extnote_tag
+ZDB-EXTNOTE-160601-517,ZDB-ALT-130502-1,carries a cysteine to threonine mutation in exon 4 of syne3 (ENSDARG00000023237) leading to the introduction of a premature stop codon at position 195,feature,ZDB-PUB-160331-1,variant with ID ZDB-FGMD-190401-1961
+ZDB-EXTNOTE-160601-223,ZDB-ALT-100129-108,intron of ENSDARG00000070074;AB459555,feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-210127-847,ZDB-ALT-100129-108,intron of ENSDARG00000070074;AB459555,feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-200811-1,ZDB-ALT-200811-4,"mutation in bmpr1aa Ensembl(GRCz11):ENSDARG00000019728, intron 6-exon 8, 53bp (Chromosome 13:22614468-13:22614520) deletion CAAAAAAAACAGCTTTGACTGTGTTTTGTCATCAGGTATAAGTGGCAGACAGA, 29bp insertion GTCCGTTATCAACTTGAAAAAGTGGCACC, This results in the inclusion of the intron between exon 7 and exon 8 (verified by cDNA sequencing), resulting in a premature stop codon",feature,ZDB-PUB-200102-5,variant with ID ZDB-FGMD-200811-2
+ZDB-EXTNOTE-160601-2088,ZDB-ALT-111122-3,"G>A mutation at 43,745,899, effecting the essential invariant intronic portion of an acceptor splice site of cadherin 23 (cdh23; ENSDARG00000007561).",feature,ZDB-PUB-160331-1,variant with ID ZDB-FGMD-190401-9222
+ZDB-EXTNOTE-190819-2,ZDB-ALT-190819-2,"The insertion site was located in Zv9 build chromosome 6:38936157, in the first intron of the vdrb gene (ENSEMBL Gene ID ENSDARG00000070721).",feature,ZDB-PUB-090727-15,variant
+ZDB-EXTNOTE-201117-62,ZDB-ALT-070426-3,"Mutation in lmx1b (ENSDARG00000068365) that introduces a premature termination codon at 34,129,111 (T>A) on chromosome 8. Overall ear size reduced, abnormally formed semicircular canals, and slightly reduced otoliths.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-201117-51,ZDB-ALT-070427-1,"G>A mutation at position 35,593,144 on chromosome 13 in jag1b (ENSDARG00000013168) disrupting a splice donor site resulting in a frameshift. Antero-posterior axis is shortened in the ear.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-181,ZDB-ALT-090714-8,"Family	pa008	22; 1,567,618	Plus	strand, 	Target gene-	ENSDARG00000071738	180	bp	upstream	XM_001922442",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-329,ZDB-ALT-110210-8,"The integration locus is 32,151 bp downstream of ENSDARG00000078279. There are multiple insertions (see Teh et al.,2010).",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1145,ZDB-ALT-110412-12,"Poon et al., (2010) report the insertion is 114.8 kb downstream of brd2b, ENSDARG00000046087. GFP is expressed in the atrium, kidney, ear, and neuromasts at 3 dpf.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1942,ZDB-ALT-110412-13,"Poon et al., (2010) report the insert is 21.5 kb upstream of si:dkey-1p9.2, ENSDARG00000057284. GFP is expressed in the atrium, eyes, brain, notochord, and neural crest at 3 dpf.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1945,ZDB-ALT-110412-8,"Poon et al., (2010) report that the insert is located in an intron of si:ch211-51g4.4, ENSDARG00000061603. GFP is expressed in the myocardium, vasculature, eyes, ear, lateral line, somites at 3 dpf.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1153,ZDB-ALT-110621-10,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000035023.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1953,ZDB-ALT-110621-11,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000029146.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-342,ZDB-ALT-110621-12,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000027618.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1956,ZDB-ALT-110621-22,"Kondrychyn et al., (2009), report that the insert is located in an intron of ENSDARG00000008548.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1158,ZDB-ALT-110622-12,"(Kondrychyn et al., 2009), report that the insert is located intron of ENSDARG00000063147.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1960,ZDB-ALT-110622-13,"(Kondrychyn et al., 2009), report that the insert is located in an exon of ENSDARG00000039801.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1961,ZDB-ALT-110622-16,"(Kondrychyn et al., 2009), report that the insert is located 0.7 kb downstream of ENSDARG00000027523.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-350,ZDB-ALT-110622-17,"(Kondrychyn et al., 2009), report that the insert is located 138.0 kb downstream of ENSDARG00000036664.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1161,ZDB-ALT-110622-29,"Kondrychyn et al., (2009), report that the insert is located 56.5 kb downstream of ENSDARG00000042404.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1162,ZDB-ALT-110622-31,"Kondrychyn et al., (2009), report that the insert is located 8.4 kb upstream of ENSDARG00000031848.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1163,ZDB-ALT-110622-34,"Kondrychyn et al., (2009), report that the insert is located in an intron of ENSDARG00000068028.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1966,ZDB-ALT-110622-38,"Kondrychyn et al., (2009), report that the insert is located 34.5 kb upstream of ENSDARG00000063068.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-358,ZDB-ALT-110622-41,"Kondrychyn et al., (2009), report that the insert is located in an exon of ENSDARG00000060235.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1166,ZDB-ALT-110622-5,"Kondrychyn et al., (2009), report that the insert is located in an intron of ENSDARG00000034820.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1168,ZDB-ALT-110623-10,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000005159.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1170,ZDB-ALT-110623-16,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000061078.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1974,ZDB-ALT-110623-22,"Kondrychyn et al., (2009) report that the insert is located 8.8 kb upstream of ENSDARG00000039174.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1175,ZDB-ALT-110628-1,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000071685",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1976,ZDB-ALT-110628-10,"Kondrychyn et al., (2009) report that the insert is located 3.5 kb downstream of ENSDARG00000034344.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1177,ZDB-ALT-110628-15,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000033473.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1978,ZDB-ALT-110628-19,"Kondrychyn et al., (2009) report that the insert is located 2.3 downstream of ENSDARG00000003909.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1979,ZDB-ALT-110628-21,"Kondrychyn et al., (2009) report that the insert is located 3.1 kb downstream of ENSDARG00000070600.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1182,ZDB-ALT-110628-7,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000039489.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-370,ZDB-ALT-110628-9,"Kondrychyn et al., (2009) report that the insert is located 0.7 kb downstream of ENSDARG00000068272.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1186,ZDB-ALT-110630-19,"Kondrychyn et al., (2009) report that the insert is located 14.3 kb downstream of ENSDARG00000052459.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-376,ZDB-ALT-110630-3,"Kondrychyn et al., (2009) report the insert is located 36.7 kb upstream of ENSDARG00000067804.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1989,ZDB-ALT-110630-5,"Kondrychyn et al., (2009) report the insert is located 2.7 kb upstream of ENSDARG00000041157.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1991,ZDB-ALT-110701-11,"Kondrychyn et al., (2009) report the insert is located 38.8 kb downstream of ENSDARG00000061233.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1191,ZDB-ALT-110701-13,"Kondrychyn et al., (2009) report the insert is located 1.9 kb downstream of ENSDARG00000025013.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1994,ZDB-ALT-110701-2,"Kondrychyn et al., (2009) report the insert is located 3.2 kb upstream of ENSDARG00000059638.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1997,ZDB-ALT-110701-30,"Kondrychyn et al., (2009) report the insert is located 40.7 kb upstream of ENSDARG00000061989.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-385,ZDB-ALT-110701-7,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000060554.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2002,ZDB-ALT-110706-13,"Kondrychyn et al., (2009) report the insert is located 73.3 kb downstream of ENSDARG00000070954.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2004,ZDB-ALT-110706-19,"Kondrychyn et al., (2009) report the insert is located 36.2 kb downstream of ENSDARG00000069561. ",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1203,ZDB-ALT-110706-23,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000023771.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1204,ZDB-ALT-110706-29,"Kondrychyn et al., (2009) report the insert is located 3.3 kb downstream of ENSDARG00000069110.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1205,ZDB-ALT-110706-31,"Kondrychyn et al., (2009) report the insert is located in an exon of ENSDARG00000062934.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-390,ZDB-ALT-110706-33,"Kondrychyn et al., (2009) report the insert is located 26.4 kb downstream of ENSDARG00000013434.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1208,ZDB-ALT-110706-42,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000070956.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2011,ZDB-ALT-110706-43,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000056252.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-396,ZDB-ALT-110706-55,"Kondrychyn et al., (2009) report the insert is located 1.3 kb downstream of ENSDARG00000036952.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1211,ZDB-ALT-110706-56,"Kondrychyn et al., (2009) report the insert is located 31.6 kb upstream of ENSDARG00000067536.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-397,ZDB-ALT-110706-8,"Kondrychyn et al., (2009) report the insert is located 3.6 kb downstream of ENSDARG00000037916.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2017,ZDB-ALT-110707-5,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000008380.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1215,ZDB-ALT-110707-7,"Kondrychyn et al., (2009) report the insert is located 2.6 kb upstream of ENSDARG00000020147.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2020,ZDB-ALT-110711-12,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000061397.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-402,ZDB-ALT-110711-13,"Kondrychyn et al., (2009) report the insert is located 0.6 kb downstream of ENSDARG00000060656.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1218,ZDB-ALT-110711-14,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000031774.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1219,ZDB-ALT-110711-8,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000069487.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2022,ZDB-ALT-110711-9,"Kondrychyn et al., (2009) report the insert is located 3.8 kb downstream of ENSDARG00000034820.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-406,ZDB-ALT-110712-12,"Kondrychyn et al., (2009) report the insert is located 13.2 kb upstream of ENSDARG00000044010.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-407,ZDB-ALT-110712-15,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000071593.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-409,ZDB-ALT-110712-20,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000013834.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2028,ZDB-ALT-110712-29,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000059642.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2030,ZDB-ALT-110712-35,"Kondrychyn et al., (2009) report the insert is located 16.6 kb upstream of ENSDARG00000053299.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-413,ZDB-ALT-110712-36,"Kondrychyn et al., (2009) report the insert is located 20.7 kb downstream of ENSDARG00000059149.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1227,ZDB-ALT-110712-37,"Kondrychyn et al., (2009) report the insert is located 153.7 kb upstream of ENSDARG00000069482.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-414,ZDB-ALT-110712-39,"Kondrychyn et al., (2009) report the insert is located in an exon of ENSDARG00000058340.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2031,ZDB-ALT-110712-40,"Kondrychyn et al., (2009) report the insert is located 24.5 kb downstream of ENSDARG00000039947.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-417,ZDB-ALT-110712-5,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000069680.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1231,ZDB-ALT-110712-53,"Kondrychyn et al., (2009) report the insert is located intron of ENSDARG00000033473.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-418,ZDB-ALT-110712-55,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000027564.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1234,ZDB-ALT-110712-63,"Kondrychyn et al., (2009) report the insert is located 14.2 kb downstream of ENSDARG00000070026.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-424,ZDB-ALT-110713-2,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000027824.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-1238,ZDB-ALT-110713-3,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000009170.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2042,ZDB-ALT-110713-4,"Kondrychyn et al., (2009) report the insert is located 13.1 kb upstream of ENSDARG00000026313.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-425,ZDB-ALT-110713-5,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000062937.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-160601-2298,ZDB-ALT-150528-2,"The insertion location the Et(shhb:KALTA4,UAS-E1b:mCherry) transgene in this fish was determined to be approximately 22kb upstream of ENSDARG00000058274 in Zv8.",feature,ZDB-PUB-160331-1,feature
+ZDB-EXTNOTE-190501-464,ZDB-ALT-190501-337,This allele was mapped to ENSDARG00000091642 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-584,ZDB-ALT-190501-313,This allele was mapped to ENSDARG00000088660 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-155,ZDB-ALT-190501-294,This allele was mapped to ENSDARG00000090275 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-465,ZDB-ALT-190501-296,This allele was mapped to ENSDARG00000087915 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-73,ZDB-ALT-190501-297,This allele was mapped to ENSDARG00000070281 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-460,ZDB-ALT-190501-298,This allele was mapped to ENSDARG00000089358 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-5,ZDB-ALT-190501-299,This allele was mapped to ENSDARG00000089229 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-243,ZDB-ALT-190501-300,This allele was mapped to ENSDARG00000036433 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-229,ZDB-ALT-190501-301,This allele was mapped to ENSDARG00000075540 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-385,ZDB-ALT-190501-302,This allele was mapped to ENSDARG00000094184 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-307,ZDB-ALT-190501-303,This allele was mapped to ENSDARG00000090535 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-86,ZDB-ALT-190501-304,This allele was mapped to ENSDARG00000060912 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-375,ZDB-ALT-190501-305,This allele was mapped to ENSDARG00000088027 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-216,ZDB-ALT-190501-306,This allele was mapped to ENSDARG00000074962 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-374,ZDB-ALT-190501-307,This allele was mapped to ENSDARG00000086609 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-42,ZDB-ALT-190501-309,This allele was mapped to ENSDARG00000071165 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-388,ZDB-ALT-190501-310,This allele was mapped to ENSDARG00000089599 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-383,ZDB-ALT-190501-311,This allele was mapped to ENSDARG00000057593 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-50,ZDB-ALT-190501-312,This allele was mapped to ENSDARG00000075546 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-450,ZDB-ALT-190501-314,This allele was mapped to ENSDARG00000010075 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-281,ZDB-ALT-190501-315,This allele was mapped to ENSDARG00000092902 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-565,ZDB-ALT-190501-316,This allele was mapped to ENSDARG00000086667 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-399,ZDB-ALT-190501-317,This allele was mapped to ENSDARG00000014615 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-202,ZDB-ALT-190501-318,This allele was mapped to ENSDARG00000088107 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-288,ZDB-ALT-190501-319,This allele was mapped to ENSDARG00000053220 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-326,ZDB-ALT-190501-320,This allele was mapped to ENSDARG00000087255 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-625,ZDB-ALT-190501-321,This allele was mapped to ENSDARG00000086594 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-323,ZDB-ALT-190501-322,This allele was mapped to ENSDARG00000043851 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-593,ZDB-ALT-190501-323,This allele was mapped to ENSDARG00000043851 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-582,ZDB-ALT-190501-324,This allele was mapped to ENSDARG00000090065 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-15,ZDB-ALT-190501-325,This allele was mapped to ENSDARG00000086384 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-263,ZDB-ALT-190501-326,This allele was mapped to ENSDARG00000013525 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-558,ZDB-ALT-190501-327,This allele was mapped to ENSDARG00000074973 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-409,ZDB-ALT-190501-331,This allele was mapped to ENSDARG00000087859 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-222,ZDB-ALT-190501-332,This allele was mapped to ENSDARG00000090644 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-181,ZDB-ALT-190501-333,This allele was mapped to ENSDARG00000053220 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-552,ZDB-ALT-190501-334,This allele was mapped to ENSDARG00000053220 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-136,ZDB-ALT-190501-335,This allele was mapped to ENSDARG00000090514 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-304,ZDB-ALT-190501-336,This allele was mapped to ENSDARG00000037566 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-516,ZDB-ALT-190501-338,This allele was mapped to ENSDARG00000054515 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-590,ZDB-ALT-190501-339,This allele was mapped to ENSDARG00000077668 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-526,ZDB-ALT-190501-340,This allele was mapped to ENSDARG00000074416 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-287,ZDB-ALT-190501-341,This allele was mapped to ENSDARG00000031624 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-8,ZDB-ALT-190501-342,This allele was mapped to ENSDARG00000077651 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-108,ZDB-ALT-190501-343,This allele was mapped to ENSDARG00000088127 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-134,ZDB-ALT-190501-344,This allele was mapped to ENSDARG00000041023 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-406,ZDB-ALT-190501-345,This allele was mapped to ENSDARG00000073975 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-44,ZDB-ALT-190501-346,This allele was mapped to ENSDARG00000075992 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-545,ZDB-ALT-190501-347,This allele was mapped to ENSDARG00000068686 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-366,ZDB-ALT-190501-348,This allele was mapped to ENSDARG00000076281 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-118,ZDB-ALT-190501-349,This allele was mapped to ENSDARG00000091492 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-339,ZDB-ALT-190501-350,This allele was mapped to ENSDARG00000077585 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-10,ZDB-ALT-190501-351,This allele was mapped to ENSDARG00000040406 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-117,ZDB-ALT-190501-352,This allele was mapped to ENSDARG00000077668 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-230,ZDB-ALT-190501-353,This allele was mapped to ENSDARG00000073803 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-494,ZDB-ALT-190501-354,This allele was mapped to ENSDARG00000089275 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-67,ZDB-ALT-190501-355,This allele was mapped to ENSDARG00000089148 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-261,ZDB-ALT-190501-356,This allele was mapped to ENSDARG00000086800 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-189,ZDB-ALT-190501-357,This allele was mapped to ENSDARG00000088618 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-80,ZDB-ALT-190501-358,This allele was mapped to ENSDARG00000091844 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-389,ZDB-ALT-190501-359,This allele was mapped to ENSDARG00000091482 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-88,ZDB-ALT-190501-360,This allele was mapped to ENSDARG00000091202 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-462,ZDB-ALT-190501-361,This allele was mapped to ENSDARG00000089762 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-226,ZDB-ALT-190501-362,This allele was mapped to ENSDARG00000087826 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-198,ZDB-ALT-190501-363,This allele was mapped to ENSDARG00000090867 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-220,ZDB-ALT-190501-364,This allele was mapped to ENSDARG00000076795 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-54,ZDB-ALT-190501-365,This allele was mapped to ENSDARG00000091278 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-125,ZDB-ALT-190501-366,This allele was mapped to ENSDARG00000089006 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-87,ZDB-ALT-190501-367,This allele was mapped to ENSDARG00000086995 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-85,ZDB-ALT-190501-368,This allele was mapped to ENSDARG00000079292 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-616,ZDB-ALT-190501-369,This allele was mapped to ENSDARG00000058836 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-297,ZDB-ALT-190501-370,This allele was mapped to ENSDARG00000079210 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-511,ZDB-ALT-190501-371,This allele was mapped to ENSDARG00000077651 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-486,ZDB-ALT-190501-372,This allele was mapped to ENSDARG00000077651 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-63,ZDB-ALT-190501-373,This allele was mapped to ENSDARG00000037882 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-72,ZDB-ALT-190501-374,This allele was mapped to ENSDARG00000061753 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-338,ZDB-ALT-190501-375,This allele was mapped to ENSDARG00000091765 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-262,ZDB-ALT-190501-376,This allele was mapped to ENSDARG00000079757 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-347,ZDB-ALT-190501-377,This allele was mapped to ENSDARG00000088575 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-255,ZDB-ALT-190501-378,This allele was mapped to ENSDARG00000090525 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-166,ZDB-ALT-190501-379,This allele was mapped to ENSDARG00000095337 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-554,ZDB-ALT-190501-380,This allele was mapped to ENSDARG00000093132 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-454,ZDB-ALT-190501-381,This allele was mapped to ENSDARG00000090275 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-536,ZDB-ALT-190501-382,This allele was mapped to ENSDARG00000019318 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-182,ZDB-ALT-190501-383,This allele was mapped to ENSDARG00000090648 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-228,ZDB-ALT-190501-384,This allele was mapped to ENSDARG00000089789 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-239,ZDB-ALT-190501-385,This allele was mapped to ENSDARG00000076893 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-153,ZDB-ALT-190501-386,This allele was mapped to ENSDARG00000089252 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-470,ZDB-ALT-190501-387,This allele was mapped to ENSDARG00000078438 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-159,ZDB-ALT-190501-388,This allele was mapped to ENSDARG00000058284 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-35,ZDB-ALT-190501-389,This allele was mapped to ENSDARG00000091492 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-419,ZDB-ALT-190501-390,This allele was mapped to ENSDARG00000074139 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-106,ZDB-ALT-190501-391,This allele was mapped to ENSDARG00000074139 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-487,ZDB-ALT-190501-392,This allele was mapped to ENSDARG00000091350 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-493,ZDB-ALT-190501-393,This allele was mapped to ENSDARG00000086308 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-492,ZDB-ALT-190501-394,This allele was mapped to ENSDARG00000090650 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-127,ZDB-ALT-190501-395,This allele was mapped to ENSDARG00000088460 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-98,ZDB-ALT-190501-396,This allele was mapped to ENSDARG00000071165 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-27,ZDB-ALT-190501-397,This allele was mapped to ENSDARG00000059269 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-510,ZDB-ALT-190501-398,This allele was mapped to ENSDARG00000036829 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-496,ZDB-ALT-190501-399,This allele was mapped to ENSDARG00000090030 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-509,ZDB-ALT-190501-400,This allele was mapped to ENSDARG00000074990 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-618,ZDB-ALT-190501-401,This allele was mapped to ENSDARG00000053183 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-242,ZDB-ALT-190501-402,This allele was mapped to ENSDARG00000088285 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-622,ZDB-ALT-190501-403,This allele was mapped to ENSDARG00000088910 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-188,ZDB-ALT-190501-404,This allele was mapped to ENSDARG00000086671 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-316,ZDB-ALT-190501-405,This allele was mapped to ENSDARG00000086671 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-500,ZDB-ALT-190501-406,This allele was mapped to ENSDARG00000074515 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-7,ZDB-ALT-190501-407,This allele was mapped to ENSDARG00000089393 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-254,ZDB-ALT-190501-408,This allele was mapped to ENSDARG00000086190 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-253,ZDB-ALT-190501-409,This allele was mapped to ENSDARG00000091572 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-232,ZDB-ALT-190501-410,This allele was mapped to ENSDARG00000086404 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-235,ZDB-ALT-190501-411,This allele was mapped to ENSDARG00000086406 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-434,ZDB-ALT-190501-412,This allele was mapped to ENSDARG00000075770 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-312,ZDB-ALT-190501-413,This allele was mapped to ENSDARG00000089365 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-353,ZDB-ALT-190501-414,This allele was mapped to ENSDARG00000078528 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-390,ZDB-ALT-190501-415,This allele was mapped to ENSDARG00000040406 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-295,ZDB-ALT-190501-416,This allele was mapped to ENSDARG00000088839 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-168,ZDB-ALT-190501-417,This allele was mapped to ENSDARG00000057593 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-224,ZDB-ALT-190501-418,This allele was mapped to ENSDARG00000087655 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-377,ZDB-ALT-190501-419,This allele was mapped to ENSDARG00000075321 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-79,ZDB-ALT-190501-420,This allele was mapped to ENSDARG00000068594 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-104,ZDB-ALT-190501-421,This allele was mapped to ENSDARG00000063373 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-380,ZDB-ALT-190501-422,This allele was mapped to ENSDARG00000086965 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-215,ZDB-ALT-190501-423,This allele was mapped to ENSDARG00000089059 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-344,ZDB-ALT-190501-424,This allele was mapped to ENSDARG00000091302 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-333,ZDB-ALT-190501-425,This allele was mapped to ENSDARG00000091008 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-184,ZDB-ALT-190501-426,This allele was mapped to ENSDARG00000090569 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-131,ZDB-ALT-190501-427,This allele was mapped to ENSDARG00000063282 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-105,ZDB-ALT-190501-428,This allele was mapped to ENSDARG00000030766 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-567,ZDB-ALT-190501-429,This allele was mapped to ENSDARG00000067683 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-469,ZDB-ALT-190501-430,This allele was mapped to ENSDARG00000067683 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-499,ZDB-ALT-190501-431,This allele was mapped to ENSDARG00000086681 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-299,ZDB-ALT-190501-432,This allele was mapped to ENSDARG00000086681 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-597,ZDB-ALT-190501-433,This allele was mapped to ENSDARG00000079153 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-425,ZDB-ALT-190501-434,This allele was mapped to ENSDARG00000087041 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-101,ZDB-ALT-190501-435,This allele was mapped to ENSDARG00000029232 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-346,ZDB-ALT-190501-436,This allele was mapped to ENSDARG00000041023 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-237,ZDB-ALT-190501-437,This allele was mapped to ENSDARG00000086627 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-249,ZDB-ALT-190501-438,This allele was mapped to ENSDARG00000090070 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-371,ZDB-ALT-190501-439,This allele was mapped to ENSDARG00000089493 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-173,ZDB-ALT-190501-440,This allele was mapped to ENSDARG00000069385 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-418,ZDB-ALT-190501-441,This allele was mapped to ENSDARG00000087183 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-507,ZDB-ALT-190501-442,This allele was mapped to ENSDARG00000087183 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-337,ZDB-ALT-190501-443,This allele was mapped to ENSDARG00000089905 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-103,ZDB-ALT-190501-444,This allele was mapped to ENSDARG00000090665 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-621,ZDB-ALT-190501-445,This allele was mapped to ENSDARG00000090446 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-517,ZDB-ALT-190501-446,This allele was mapped to ENSDARG00000088730 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-370,ZDB-ALT-190501-447,This allele was mapped to ENSDARG00000088730 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-293,ZDB-ALT-190501-448,This allele was mapped to ENSDARG00000089056 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-248,ZDB-ALT-190501-449,This allele was mapped to ENSDARG00000091328 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-502,ZDB-ALT-190501-450,This allele was mapped to ENSDARG00000039197 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-301,ZDB-ALT-190501-451,This allele was mapped to ENSDARG00000074416 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-619,ZDB-ALT-190501-452,This allele was mapped to ENSDARG00000086642 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-485,ZDB-ALT-190501-453,This allele was mapped to ENSDARG00000039716 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-227,ZDB-ALT-190501-454,This allele was mapped to ENSDARG00000039716 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-568,ZDB-ALT-190501-455,This allele was mapped to ENSDARG00000091844 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-329,ZDB-ALT-190501-456,This allele was mapped to ENSDARG00000091482 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-11,ZDB-ALT-190501-457,This allele was mapped to ENSDARG00000090611 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-308,ZDB-ALT-190501-458,This allele was mapped to ENSDARG00000018406 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-252,ZDB-ALT-190501-459,This allele was mapped to ENSDARG00000087101 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-212,ZDB-ALT-190501-460,This allele was mapped to ENSDARG00000077051 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-564,ZDB-ALT-190501-461,This allele was mapped to ENSDARG00000090867 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-591,ZDB-ALT-190501-462,This allele was mapped to ENSDARG00000076795 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-185,ZDB-ALT-190501-463,This allele was mapped to ENSDARG00000076938 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-164,ZDB-ALT-190501-464,This allele was mapped to ENSDARG00000038590 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-292,ZDB-ALT-190501-465,This allele was mapped to ENSDARG00000079154 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-506,ZDB-ALT-190501-466,This allele was mapped to ENSDARG00000086359 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-219,ZDB-ALT-190501-467,This allele was mapped to ENSDARG00000078684 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-436,ZDB-ALT-190501-468,This allele was mapped to ENSDARG00000078680 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-175,ZDB-ALT-190501-469,This allele was mapped to ENSDARG00000061535 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-306,ZDB-ALT-190501-470,This allele was mapped to ENSDARG00000079039 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-491,ZDB-ALT-190501-471,This allele was mapped to ENSDARG00000044796 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-310,ZDB-ALT-190501-472,This allele was mapped to ENSDARG00000068008 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-150,ZDB-ALT-190501-473,This allele was mapped to ENSDARG00000037832 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-303,ZDB-ALT-190501-474,This allele was mapped to ENSDARG00000030638 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-586,ZDB-ALT-190501-475,This allele was mapped to ENSDARG00000063300 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-112,ZDB-ALT-190501-476,This allele was mapped to ENSDARG00000087719 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-269,ZDB-ALT-190501-477,This allele was mapped to ENSDARG00000058863 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-49,ZDB-ALT-190501-478,This allele was mapped to ENSDARG00000087273 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-372,ZDB-ALT-190501-479,This allele was mapped to ENSDARG00000012482 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-210,ZDB-ALT-190501-480,This allele was mapped to ENSDARG00000057593 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-22,ZDB-ALT-190501-481,This allele was mapped to ENSDARG00000035994 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-135,ZDB-ALT-190501-482,This allele was mapped to ENSDARG00000090951 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-201,ZDB-ALT-190501-483,This allele was mapped to ENSDARG00000068613 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-587,ZDB-ALT-190501-484,This allele was mapped to ENSDARG00000092928 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-133,ZDB-ALT-190501-485,This allele was mapped to ENSDARG00000069193 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-432,ZDB-ALT-190501-486,This allele was mapped to ENSDARG00000074020 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-83,ZDB-ALT-190501-487,This allele was mapped to ENSDARG00000041023 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-514,ZDB-ALT-190501-488,This allele was mapped to ENSDARG00000090420 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-515,ZDB-ALT-190501-489,This allele was mapped to ENSDARG00000094054 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-203,ZDB-ALT-190501-490,This allele was mapped to ENSDARG00000053220 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-325,ZDB-ALT-190501-491,This allele was mapped to ENSDARG00000059032 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-429,ZDB-ALT-190501-492,This allele was mapped to ENSDARG00000088779 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-225,ZDB-ALT-190501-493,This allele was mapped to ENSDARG00000076498 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-594,ZDB-ALT-190501-494,This allele was mapped to ENSDARG00000091375 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-238,ZDB-ALT-190501-495,This allele was mapped to ENSDARG00000089506 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-498,ZDB-ALT-190501-496,This allele was mapped to ENSDARG00000075951 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-610,ZDB-ALT-190501-497,This allele was mapped to ENSDARG00000034098 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-180,ZDB-ALT-190501-498,This allele was mapped to ENSDARG00000086155 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-342,ZDB-ALT-190501-499,This allele was mapped to ENSDARG00000086155 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-126,ZDB-ALT-190501-500,This allele was mapped to ENSDARG00000073679 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-121,ZDB-ALT-190501-501,This allele was mapped to ENSDARG00000088172 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-537,ZDB-ALT-190501-502,This allele was mapped to ENSDARG00000089947 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-95,ZDB-ALT-190501-503,This allele was mapped to ENSDARG00000090037 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-231,ZDB-ALT-190501-504,This allele was mapped to ENSDARG00000077651 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-335,ZDB-ALT-190501-505,This allele was mapped to ENSDARG00000087370 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-480,ZDB-ALT-190501-506,This allele was mapped to ENSDARG00000088614 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-351,ZDB-ALT-190501-507,This allele was mapped to ENSDARG00000087086 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-495,ZDB-ALT-190501-508,This allele was mapped to ENSDARG00000063606 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-538,ZDB-ALT-190501-509,This allele was mapped to ENSDARG00000093050 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-557,ZDB-ALT-190501-510,This allele was mapped to ENSDARG00000091651 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-547,ZDB-ALT-190501-511,This allele was mapped to ENSDARG00000090684 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-12,ZDB-ALT-190501-512,This allele was mapped to ENSDARG00000090275 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-560,ZDB-ALT-190501-513,This allele was mapped to ENSDARG00000090275 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-522,ZDB-ALT-190501-514,This allele was mapped to ENSDARG00000088860 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-379,ZDB-ALT-190501-515,This allele was mapped to ENSDARG00000087726 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-476,ZDB-ALT-190501-516,This allele was mapped to ENSDARG00000088027 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-266,ZDB-ALT-190501-517,This allele was mapped to ENSDARG00000061709 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-115,ZDB-ALT-190501-518,This allele was mapped to ENSDARG00000088508 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-194,ZDB-ALT-190501-519,This allele was mapped to ENSDARG00000013400 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-14,ZDB-ALT-190501-520,This allele was mapped to ENSDARG00000090025 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-110,ZDB-ALT-190501-521,This allele was mapped to ENSDARG00000078262 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-280,ZDB-ALT-190501-522,This allele was mapped to ENSDARG00000074139 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-214,ZDB-ALT-190501-523,This allele was mapped to ENSDARG00000054515 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-551,ZDB-ALT-190501-524,This allele was mapped to ENSDARG00000078971 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-145,ZDB-ALT-190501-525,This allele was mapped to ENSDARG00000079748 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-193,ZDB-ALT-190501-526,This allele was mapped to ENSDARG00000088772 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-392,ZDB-ALT-190501-527,This allele was mapped to ENSDARG00000089679 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-559,ZDB-ALT-190501-528,This allele was mapped to ENSDARG00000086306 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-130,ZDB-ALT-190501-529,This allele was mapped to ENSDARG00000024748 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-350,ZDB-ALT-190501-530,This allele was mapped to ENSDARG00000024748 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-4,ZDB-ALT-190501-531,This allele was mapped to ENSDARG00000071165 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-401,ZDB-ALT-190501-532,This allele was mapped to ENSDARG00000090744 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-373,ZDB-ALT-190501-533,This allele was mapped to ENSDARG00000088522 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-490,ZDB-ALT-190501-534,This allele was mapped to ENSDARG00000077867 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-408,ZDB-ALT-190501-535,This allele was mapped to ENSDARG00000075935 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-533,ZDB-ALT-190501-536,This allele was mapped to ENSDARG00000075935 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-57,ZDB-ALT-190501-537,This allele was mapped to ENSDARG00000036829 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-264,ZDB-ALT-190501-538,This allele was mapped to ENSDARG00000087563 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-46,ZDB-ALT-190501-539,This allele was mapped to ENSDARG00000087563 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-197,ZDB-ALT-190501-540,This allele was mapped to ENSDARG00000086671 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-577,ZDB-ALT-190501-541,This allele was mapped to ENSDARG00000074515 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-19,ZDB-ALT-190501-542,This allele was mapped to ENSDARG00000086290 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-433,ZDB-ALT-190501-543,This allele was mapped to ENSDARG00000074025 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-62,ZDB-ALT-190501-544,This allele was mapped to ENSDARG00000087903 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-482,ZDB-ALT-190501-545,This allele was mapped to ENSDARG00000088946 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-75,ZDB-ALT-190501-546,This allele was mapped to ENSDARG00000089599 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-546,ZDB-ALT-190501-547,This allele was mapped to ENSDARG00000040406 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-152,ZDB-ALT-190501-548,This allele was mapped to ENSDARG00000087114 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-574,ZDB-ALT-190501-549,This allele was mapped to ENSDARG00000090937 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-318,ZDB-ALT-190501-550,This allele was mapped to ENSDARG00000039462 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-607,ZDB-ALT-190501-551,This allele was mapped to ENSDARG00000088572 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-345,ZDB-ALT-190501-552,This allele was mapped to ENSDARG00000075321 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-321,ZDB-ALT-190501-553,This allele was mapped to ENSDARG00000089721 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-41,ZDB-ALT-190501-554,This allele was mapped to ENSDARG00000068594 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-2,ZDB-ALT-190501-555,This allele was mapped to ENSDARG00000059381 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-431,ZDB-ALT-190501-556,This allele was mapped to ENSDARG00000079047 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-163,ZDB-ALT-190501-557,This allele was mapped to ENSDARG00000091008 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-160,ZDB-ALT-190501-558,This allele was mapped to ENSDARG00000090569 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-129,ZDB-ALT-190501-559,This allele was mapped to ENSDARG00000091294 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-48,ZDB-ALT-190501-560,This allele was mapped to ENSDARG00000091238 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-128,ZDB-ALT-190501-561,This allele was mapped to ENSDARG00000041023 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-447,ZDB-ALT-190501-562,This allele was mapped to ENSDARG00000090157 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-428,ZDB-ALT-190501-563,This allele was mapped to ENSDARG00000053220 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-349,ZDB-ALT-190501-564,This allele was mapped to ENSDARG00000090070 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-604,ZDB-ALT-190501-565,This allele was mapped to ENSDARG00000088325 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-52,ZDB-ALT-190501-566,This allele was mapped to ENSDARG00000087230 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-588,ZDB-ALT-190501-567,This allele was mapped to ENSDARG00000088056 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-291,ZDB-ALT-190501-568,This allele was mapped to ENSDARG00000076178 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-439,ZDB-ALT-190501-569,This allele was mapped to ENSDARG00000090665 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-55,ZDB-ALT-190501-570,This allele was mapped to ENSDARG00000059032 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-361,ZDB-ALT-190501-571,This allele was mapped to ENSDARG00000091328 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-386,ZDB-ALT-190501-572,This allele was mapped to ENSDARG00000076937 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-407,ZDB-ALT-190501-573,This allele was mapped to ENSDARG00000089494 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-285,ZDB-ALT-190501-574,This allele was mapped to ENSDARG00000088218 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-400,ZDB-ALT-190501-575,This allele was mapped to ENSDARG00000063315 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-391,ZDB-ALT-190501-576,This allele was mapped to ENSDARG00000090611 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-405,ZDB-ALT-190501-577,This allele was mapped to ENSDARG00000088237 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-343,ZDB-ALT-190501-584,This allele was mapped to ENSDARG00000029218 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-553,ZDB-ALT-190501-585,This allele was mapped to ENSDARG00000075992 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-143,ZDB-ALT-190501-586,This allele was mapped to ENSDARG00000093715 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-34,ZDB-ALT-190501-587,This allele was mapped to ENSDARG00000087888 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-581,ZDB-ALT-190501-588,This allele was mapped to ENSDARG00000029218 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-481,ZDB-ALT-190501-589,This allele was mapped to ENSDARG00000087888 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-322,ZDB-ALT-190501-591,This allele was mapped to ENSDARG00000078952 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-32,ZDB-ALT-190501-592,This allele was mapped to ENSDARG00000088522 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-525,ZDB-ALT-190501-593,This allele was mapped to ENSDARG00000041023 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-311,ZDB-ALT-190501-594,This allele was mapped to ENSDARG00000078680 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-89,ZDB-ALT-190501-595,This allele was mapped to ENSDARG00000091806 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-336,ZDB-ALT-190501-596,This allele was mapped to ENSDARG00000090923 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-313,ZDB-ALT-190501-597,This allele was mapped to ENSDARG00000071140 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-513,ZDB-ALT-190501-598,This allele was mapped to ENSDARG00000106258 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-393,ZDB-ALT-190501-599,This allele was mapped to ENSDARG00000088956 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-530,ZDB-ALT-190501-600,This allele was mapped to ENSDARG00000105945 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-76,ZDB-ALT-190501-601,This allele was mapped to ENSDARG00000042887 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-169,ZDB-ALT-190501-602,This allele was mapped to ENSDARG00000011884 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-302,ZDB-ALT-190501-603,This allele was mapped to ENSDARG00000079348 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-60,ZDB-ALT-190501-604,This allele was mapped to ENSDARG00000088795 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-579,ZDB-ALT-190501-605,This allele was mapped to ENSDARG00000022185 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-473,ZDB-ALT-190501-606,This allele was mapped to ENSDARG00000031534 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-190,ZDB-ALT-190501-607,This allele was mapped to ENSDARG00000101782 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-477,ZDB-ALT-190501-608,This allele was mapped to ENSDARG00000100849 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-91,ZDB-ALT-190501-609,This allele was mapped to ENSDARG00000078938 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-241,ZDB-ALT-190501-610,This allele was mapped to ENSDARG00000068742 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-31,ZDB-ALT-190501-611,This allele was mapped to ENSDARG00000104980 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-403,ZDB-ALT-190501-612,This allele was mapped to ENSDARG00000104980 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-475,ZDB-ALT-190501-613,This allele was mapped to ENSDARG00000099908 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-611,ZDB-ALT-190501-614,This allele was mapped to ENSDARG00000026246 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-245,ZDB-ALT-190501-615,This allele was mapped to ENSDARG00000077330 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-149,ZDB-ALT-190501-616,This allele was mapped to ENSDARG00000077330 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-461,ZDB-ALT-190501-617,This allele was mapped to ENSDARG00000098636 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-251,ZDB-ALT-190501-618,This allele was mapped to ENSDARG00000087204 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-206,ZDB-ALT-190501-619,This allele was mapped to ENSDARG00000078394 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-277,ZDB-ALT-190501-620,This allele was mapped to ENSDARG00000079483 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-602,ZDB-ALT-190501-621,This allele was mapped to ENSDARG00000076088 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-357,ZDB-ALT-190501-622,This allele was mapped to ENSDARG00000087950 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-463,ZDB-ALT-190501-623,This allele was mapped to ENSDARG00000055446 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-244,ZDB-ALT-190501-624,This allele was mapped to ENSDARG00000108060 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-29,ZDB-ALT-190501-625,This allele was mapped to ENSDARG00000078204 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-571,ZDB-ALT-190501-626,This allele was mapped to ENSDARG00000098113 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-20,ZDB-ALT-190501-627,This allele was mapped to ENSDARG00000089607 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-40,ZDB-ALT-190501-628,This allele was mapped to ENSDARG00000068104 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-102,ZDB-ALT-190501-629,This allele was mapped to ENSDARG00000075606 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-532,ZDB-ALT-190501-630,This allele was mapped to ENSDARG00000108520 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-524,ZDB-ALT-190501-631,This allele was mapped to ENSDARG00000098253 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-330,ZDB-ALT-190501-632,This allele was mapped to ENSDARG00000098909 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-61,ZDB-ALT-190501-633,This allele was mapped to ENSDARG00000069800 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-384,ZDB-ALT-190501-634,This allele was mapped to ENSDARG00000104842 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-298,ZDB-ALT-190501-635,This allele was mapped to ENSDARG00000058659 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-77,ZDB-ALT-190501-636,This allele was mapped to ENSDARG00000079876 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-211,ZDB-ALT-190501-637,This allele was mapped to ENSDARG00000104883 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-626,ZDB-ALT-190501-638,This allele was mapped to ENSDARG00000069904 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-68,ZDB-ALT-190501-639,This allele was mapped to ENSDARG00000086944 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-508,ZDB-ALT-190501-640,This allele was mapped to ENSDARG00000103837 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-236,ZDB-ALT-190501-641,This allele was mapped to ENSDARG00000098503 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-247,ZDB-ALT-190501-642,This allele was mapped to ENSDARG00000102596 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-540,ZDB-ALT-190501-643,This allele was mapped to ENSDARG00000102191 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-459,ZDB-ALT-190501-644,This allele was mapped to ENSDARG00000105274 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-286,ZDB-ALT-190501-645,This allele was mapped to ENSDARG00000098215 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-296,ZDB-ALT-190501-646,This allele was mapped to ENSDARG00000056677 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-26,ZDB-ALT-190501-647,This allele was mapped to ENSDARG00000089543 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-213,ZDB-ALT-190501-648,This allele was mapped to ENSDARG00000104277 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-139,ZDB-ALT-190501-649,This allele was mapped to ENSDARG00000086969 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-489,ZDB-ALT-190501-650,This allele was mapped to ENSDARG00000101049 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-256,ZDB-ALT-190501-651,This allele was mapped to ENSDARG00000069333 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-617,ZDB-ALT-190501-652,This allele was mapped to ENSDARG00000108060 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-39,ZDB-ALT-190501-653,This allele was mapped to ENSDARG00000078775 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-376,ZDB-ALT-190501-654,This allele was mapped to ENSDARG00000011884 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-458,ZDB-ALT-190501-655,This allele was mapped to ENSDARG00000078427 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-520,ZDB-ALT-190501-656,This allele was mapped to ENSDARG00000088141 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-109,ZDB-ALT-190501-657,This allele was mapped to ENSDARG00000036852 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-56,ZDB-ALT-190501-658,This allele was mapped to ENSDARG00000013390 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-443,ZDB-ALT-190501-659,This allele was mapped to ENSDARG00000100757 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-355,ZDB-ALT-190501-660,This allele was mapped to ENSDARG00000057582 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-97,ZDB-ALT-190501-661,This allele was mapped to ENSDARG00000098993 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-38,ZDB-ALT-190501-662,This allele was mapped to ENSDARG00000100981 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-609,ZDB-ALT-190501-663,This allele was mapped to ENSDARG00000101452 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-359,ZDB-ALT-190501-664,This allele was mapped to ENSDARG00000073768 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-289,ZDB-ALT-190501-665,This allele was mapped to ENSDARG00000059503 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-142,ZDB-ALT-190501-666,This allele was mapped to ENSDARG00000051804 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-528,ZDB-ALT-190501-667,This allele was mapped to ENSDARG00000068026 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-81,ZDB-ALT-190501-668,This allele was mapped to ENSDARG00000044355 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-300,ZDB-ALT-190501-669,This allele was mapped to ENSDARG00000087245 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-451,ZDB-ALT-190501-670,This allele was mapped to ENSDARG00000037357 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-24,ZDB-ALT-190501-671,This allele was mapped to ENSDARG00000045666 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-404,ZDB-ALT-190501-672,This allele was mapped to ENSDARG00000077316 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-223,ZDB-ALT-190501-673,This allele was mapped to ENSDARG00000088463 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-315,ZDB-ALT-190501-674,This allele was mapped to ENSDARG00000098113 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-549,ZDB-ALT-190501-675,This allele was mapped to ENSDARG00000103837 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-290,ZDB-ALT-190501-676,This allele was mapped to ENSDARG00000102707 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-334,ZDB-ALT-190501-677,This allele was mapped to ENSDARG00000102982 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-116,ZDB-ALT-190501-678,This allele was mapped to ENSDARG00000099178 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-176,ZDB-ALT-190501-679,This allele was mapped to ENSDARG00000108082 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-484,ZDB-ALT-190501-680,This allele was mapped to ENSDARG00000093712 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-615,ZDB-ALT-190501-681,This allele was mapped to ENSDARG00000019278 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-501,ZDB-ALT-190501-682,This allele was mapped to ENSDARG00000100700 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-268,ZDB-ALT-190501-683,This allele was mapped to ENSDARG00000079348 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-440,ZDB-ALT-190501-684,This allele was mapped to ENSDARG00000069514 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-387,ZDB-ALT-190501-685,This allele was mapped to ENSDARG00000104174 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-217,ZDB-ALT-190501-686,This allele was mapped to ENSDARG00000059491 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-444,ZDB-ALT-190501-687,This allele was mapped to ENSDARG00000078364 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-167,ZDB-ALT-190501-688,This allele was mapped to ENSDARG00000079482 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-563,ZDB-ALT-190501-689,This allele was mapped to ENSDARG00000104041 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-442,ZDB-ALT-190501-690,This allele was mapped to ENSDARG00000106744 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-543,ZDB-ALT-190501-691,This allele was mapped to ENSDARG00000095023 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-58,ZDB-ALT-190501-692,This allele was mapped to ENSDARG00000103047 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-449,ZDB-ALT-190501-693,This allele was mapped to ENSDARG00000076082 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-421,ZDB-ALT-190501-694,This allele was mapped to ENSDARG00000078272 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-267,ZDB-ALT-190501-695,This allele was mapped to ENSDARG00000101452 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-583,ZDB-ALT-190501-696,This allele was mapped to ENSDARG00000035530 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-16,ZDB-ALT-190501-697,This allele was mapped to ENSDARG00000014169 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-446,ZDB-ALT-190501-698,This allele was mapped to ENSDARG00000052059 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-1,ZDB-ALT-190501-699,This allele was mapped to ENSDARG00000077330 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-569,ZDB-ALT-190501-700,This allele was mapped to ENSDARG00000077330 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-324,ZDB-ALT-190501-701,This allele was mapped to ENSDARG00000101373 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-158,ZDB-ALT-190501-702,This allele was mapped to ENSDARG00000105953 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-519,ZDB-ALT-190501-703,This allele was mapped to ENSDARG00000098989 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-156,ZDB-ALT-190501-704,This allele was mapped to ENSDARG00000063158 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-456,ZDB-ALT-190501-705,This allele was mapped to ENSDARG00000073995 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-381,ZDB-ALT-190501-706,This allele was mapped to ENSDARG00000104937 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-274,ZDB-ALT-190501-707,This allele was mapped to ENSDARG00000104937 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-331,ZDB-ALT-190501-708,This allele was mapped to ENSDARG00000104937 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-51,ZDB-ALT-190501-709,This allele was mapped to ENSDARG00000075823 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-172,ZDB-ALT-190501-710,This allele was mapped to ENSDARG00000086708 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-100,ZDB-ALT-190501-711,This allele was mapped to ENSDARG00000086708 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-605,ZDB-ALT-190501-712,This allele was mapped to ENSDARG00000098636 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-435,ZDB-ALT-190501-713,This allele was mapped to ENSDARG00000078172 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-555,ZDB-ALT-190501-714,This allele was mapped to ENSDARG00000097900 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-575,ZDB-ALT-190501-715,This allele was mapped to ENSDARG00000044355 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-192,ZDB-ALT-190501-716,This allele was mapped to ENSDARG00000079741 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-518,ZDB-ALT-190501-717,This allele was mapped to ENSDARG00000068280 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-21,ZDB-ALT-190501-718,This allele was mapped to ENSDARG00000046054 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-96,ZDB-ALT-190501-719,This allele was mapped to ENSDARG00000078394 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-148,ZDB-ALT-190501-720,This allele was mapped to ENSDARG00000087133 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-196,ZDB-ALT-190501-721,This allele was mapped to ENSDARG00000087133 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-66,ZDB-ALT-190501-722,This allele was mapped to ENSDARG00000079546 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-187,ZDB-ALT-190501-723,This allele was mapped to ENSDARG00000036424 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-468,ZDB-ALT-190501-724,This allele was mapped to ENSDARG00000036424 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-542,ZDB-ALT-190501-725,This allele was mapped to ENSDARG00000076371 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-69,ZDB-ALT-190501-726,This allele was mapped to ENSDARG00000058631 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-504,ZDB-ALT-190501-727,This allele was mapped to ENSDARG00000101969 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-170,ZDB-ALT-190501-728,This allele was mapped to ENSDARG00000091398 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-369,ZDB-ALT-190501-729,This allele was mapped to ENSDARG00000062790 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-358,ZDB-ALT-190501-730,This allele was mapped to ENSDARG00000098286 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-427,ZDB-ALT-190501-731,This allele was mapped to ENSDARG00000103613 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-33,ZDB-ALT-190501-732,This allele was mapped to ENSDARG00000040669 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-45,ZDB-ALT-190501-733,This allele was mapped to ENSDARG00000077715 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-474,ZDB-ALT-190501-734,This allele was mapped to ENSDARG00000077715 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-479,ZDB-ALT-190501-735,This allele was mapped to ENSDARG00000078347 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-544,ZDB-ALT-190501-736,This allele was mapped to ENSDARG00000069929 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-6,ZDB-ALT-190501-737,This allele was mapped to ENSDARG00000069929 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-250,ZDB-ALT-190501-738,This allele was mapped to ENSDARG00000077559 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-455,ZDB-ALT-190501-739,This allele was mapped to ENSDARG00000079182 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-512,ZDB-ALT-190501-740,This allele was mapped to ENSDARG00000089454 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-17,ZDB-ALT-190501-741,This allele was mapped to ENSDARG00000078775 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-146,ZDB-ALT-190501-742,This allele was mapped to ENSDARG00000099747 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-438,ZDB-ALT-190501-743,This allele was mapped to ENSDARG00000100753 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-550,ZDB-ALT-190501-744,This allele was mapped to ENSDARG00000100324 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-527,ZDB-ALT-190501-745,This allele was mapped to ENSDARG00000098909 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-328,ZDB-ALT-190501-746,This allele was mapped to ENSDARG00000069800 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-423,ZDB-ALT-190501-747,This allele was mapped to ENSDARG00000103139 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-279,ZDB-ALT-190501-748,This allele was mapped to ENSDARG00000098180 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-497,ZDB-ALT-190501-749,This allele was mapped to ENSDARG00000086839 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-601,ZDB-ALT-190501-750,This allele was mapped to ENSDARG00000102457 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-362,ZDB-ALT-190501-751,This allele was mapped to ENSDARG00000077959 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-209,ZDB-ALT-190501-752,This allele was mapped to ENSDARG00000073822 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-278,ZDB-ALT-190501-753,This allele was mapped to ENSDARG00000073822 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-394,ZDB-ALT-190501-754,This allele was mapped to ENSDARG00000108336 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-59,ZDB-ALT-190501-755,This allele was mapped to ENSDARG00000033393 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-174,ZDB-ALT-190501-756,This allele was mapped to ENSDARG00000079569 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-162,ZDB-ALT-190501-757,This allele was mapped to ENSDARG00000100606 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-82,ZDB-ALT-190501-758,This allele was mapped to ENSDARG00000100113 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-572,ZDB-ALT-190501-759,This allele was mapped to ENSDARG00000073763 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-319,ZDB-ALT-190501-760,This allele was mapped to ENSDARG00000101356 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-114,ZDB-ALT-190501-761,This allele was mapped to ENSDARG00000099154 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-453,ZDB-ALT-190501-762,This allele was mapped to ENSDARG00000100674 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-107,ZDB-ALT-190501-763,This allele was mapped to ENSDARG00000100769 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-531,ZDB-ALT-190501-764,This allele was mapped to ENSDARG00000098090 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-25,ZDB-ALT-190501-765,This allele was mapped to ENSDARG00000107489 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-382,ZDB-ALT-190501-766,This allele was mapped to ENSDARG00000101657 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-178,ZDB-ALT-190501-767,This allele was mapped to ENSDARG00000106968 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-535,ZDB-ALT-190501-768,This allele was mapped to ENSDARG00000100473 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-608,ZDB-ALT-190501-769,This allele was mapped to ENSDARG00000100473 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-614,ZDB-ALT-190501-770,This allele was mapped to ENSDARG00000104672 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-360,ZDB-ALT-190501-771,This allele was mapped to ENSDARG00000104672 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-363,ZDB-ALT-190501-772,This allele was mapped to ENSDARG00000100473 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-151,ZDB-ALT-190501-773,This allele was mapped to ENSDARG00000106258 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-272,ZDB-ALT-190501-774,This allele was mapped to ENSDARG00000103284 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-138,ZDB-ALT-190501-775,This allele was mapped to ENSDARG00000067495 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-457,ZDB-ALT-190501-776,This allele was mapped to ENSDARG00000078938 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-161,ZDB-ALT-190501-777,This allele was mapped to ENSDARG00000097046 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-354,ZDB-ALT-190501-778,This allele was mapped to ENSDARG00000089543 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-573,ZDB-ALT-190501-779,This allele was mapped to ENSDARG00000100428 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-30,ZDB-ALT-190501-780,This allele was mapped to ENSDARG00000101079 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-186,ZDB-ALT-190501-781,This allele was mapped to ENSDARG00000104501 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-352,ZDB-ALT-190501-782,This allele was mapped to ENSDARG00000102794 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-273,ZDB-ALT-190501-783,This allele was mapped to ENSDARG00000086969 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-221,ZDB-ALT-190501-784,This allele was mapped to ENSDARG00000098856 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-78,ZDB-ALT-190501-785,This allele was mapped to ENSDARG00000101969 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-503,ZDB-ALT-190501-786,This allele was mapped to ENSDARG00000068586 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-467,ZDB-ALT-190501-787,This allele was mapped to ENSDARG00000104615 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-90,ZDB-ALT-190501-788,This allele was mapped to ENSDARG00000036284 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-340,ZDB-ALT-190501-789,This allele was mapped to ENSDARG00000100757 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-603,ZDB-ALT-190501-790,This allele was mapped to ENSDARG00000100757 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-276,ZDB-ALT-190501-791,This allele was mapped to ENSDARG00000100606 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-367,ZDB-ALT-190501-792,This allele was mapped to ENSDARG00000090837 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-177,ZDB-ALT-190501-793,This allele was mapped to ENSDARG00000099162 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-119,ZDB-ALT-190501-794,This allele was mapped to ENSDARG00000106005 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-541,ZDB-ALT-190501-795,This allele was mapped to ENSDARG00000098720 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-122,ZDB-ALT-190501-796,This allele was mapped to ENSDARG00000098418 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-396,ZDB-ALT-190501-797,This allele was mapped to ENSDARG00000107066 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-154,ZDB-ALT-190501-798,This allele was mapped to ENSDARG00000098968 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-415,ZDB-ALT-190501-799,This allele was mapped to ENSDARG00000098966 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-218,ZDB-ALT-190501-800,This allele was mapped to ENSDARG00000104539 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-3,ZDB-ALT-190501-801,This allele was mapped to ENSDARG00000056677 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-585,ZDB-ALT-190501-802,This allele was mapped to ENSDARG00000108082 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-600,ZDB-ALT-190501-803,This allele was mapped to ENSDARG00000099334 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-23,ZDB-ALT-190501-804,This allele was mapped to ENSDARG00000076277 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-199,ZDB-ALT-190501-805,This allele was mapped to ENSDARG00000059786 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-356,ZDB-ALT-190501-806,This allele was mapped to ENSDARG00000098993 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-397,ZDB-ALT-190501-807,This allele was mapped to ENSDARG00000091359 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-65,ZDB-ALT-190501-808,This allele was mapped to ENSDARG00000100739 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-70,ZDB-ALT-190501-809,This allele was mapped to ENSDARG00000019278 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-365,ZDB-ALT-190501-810,This allele was mapped to ENSDARG00000011884 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-570,ZDB-ALT-190501-811,This allele was mapped to ENSDARG00000011884 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-348,ZDB-ALT-190501-812,This allele was mapped to ENSDARG00000078427 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-424,ZDB-ALT-190501-813,This allele was mapped to ENSDARG00000069019 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-259,ZDB-ALT-190501-814,This allele was mapped to ENSDARG00000088820 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-18,ZDB-ALT-190501-815,This allele was mapped to ENSDARG00000031534 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-208,ZDB-ALT-190501-816,This allele was mapped to ENSDARG00000036852 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-64,ZDB-ALT-190501-817,This allele was mapped to ENSDARG00000091236 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-47,ZDB-ALT-190501-818,This allele was mapped to ENSDARG00000100624 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-414,ZDB-ALT-190501-819,This allele was mapped to ENSDARG00000101104 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-207,ZDB-ALT-190501-820,This allele was mapped to ENSDARG00000099008 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-483,ZDB-ALT-190501-821,This allele was mapped to ENSDARG00000068742 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-179,ZDB-ALT-190501-822,This allele was mapped to ENSDARG00000078410 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-521,ZDB-ALT-190501-823,This allele was mapped to ENSDARG00000059587 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-422,ZDB-ALT-190501-824,This allele was mapped to ENSDARG00000077425 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-430,ZDB-ALT-190501-825,This allele was mapped to ENSDARG00000077425 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-592,ZDB-ALT-190501-826,This allele was mapped to ENSDARG00000090342 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-599,ZDB-ALT-190501-827,This allele was mapped to ENSDARG00000014169 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-93,ZDB-ALT-190501-828,This allele was mapped to ENSDARG00000029916 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-410,ZDB-ALT-190501-829,This allele was mapped to ENSDARG00000077986 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-589,ZDB-ALT-190501-830,This allele was mapped to ENSDARG00000077986 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-13,ZDB-ALT-190501-831,This allele was mapped to ENSDARG00000007199 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-305,ZDB-ALT-190501-832,This allele was mapped to ENSDARG00000052059 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-539,ZDB-ALT-190501-833,This allele was mapped to ENSDARG00000073856 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-580,ZDB-ALT-190501-834,This allele was mapped to ENSDARG00000052089 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-534,ZDB-ALT-190501-835,This allele was mapped to ENSDARG00000101373 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-144,ZDB-ALT-190501-836,This allele was mapped to ENSDARG00000087092 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-257,ZDB-ALT-190501-837,This allele was mapped to ENSDARG00000101079 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-233,ZDB-ALT-190501-838,This allele was mapped to ENSDARG00000073995 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-548,ZDB-ALT-190501-839,This allele was mapped to ENSDARG00000075823 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-327,ZDB-ALT-190501-840,This allele was mapped to ENSDARG00000086708 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-195,ZDB-ALT-190501-841,This allele was mapped to ENSDARG00000075425 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-92,ZDB-ALT-190501-842,This allele was mapped to ENSDARG00000068026 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-200,ZDB-ALT-190501-843,This allele was mapped to ENSDARG00000086172 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-364,ZDB-ALT-190501-844,This allele was mapped to ENSDARG00000076824 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-332,ZDB-ALT-190501-845,This allele was mapped to ENSDARG00000076824 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-147,ZDB-ALT-190501-846,This allele was mapped to ENSDARG00000058946 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-478,ZDB-ALT-190501-847,This allele was mapped to ENSDARG00000088503 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-505,ZDB-ALT-190501-848,This allele was mapped to ENSDARG00000102794 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-157,ZDB-ALT-190501-849,This allele was mapped to ENSDARG00000103641 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-412,ZDB-ALT-190501-850,This allele was mapped to ENSDARG00000078056 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-466,ZDB-ALT-190501-851,This allele was mapped to ENSDARG00000107353 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-240,ZDB-ALT-190501-852,This allele was mapped to ENSDARG00000090394 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-111,ZDB-ALT-190501-853,This allele was mapped to ENSDARG00000035367 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-556,ZDB-ALT-190501-854,This allele was mapped to ENSDARG00000037357 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-124,ZDB-ALT-190501-855,This allele was mapped to ENSDARG00000091503 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-183,ZDB-ALT-190501-856,This allele was mapped to ENSDARG00000100783 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-9,ZDB-ALT-190501-857,This allele was mapped to ENSDARG00000090943 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-620,ZDB-ALT-190501-858,This allele was mapped to ENSDARG00000087018 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-596,ZDB-ALT-190501-859,This allele was mapped to ENSDARG00000101186 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-488,ZDB-ALT-190501-860,This allele was mapped to ENSDARG00000090267 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-378,ZDB-ALT-190501-861,This allele was mapped to ENSDARG00000100054 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-123,ZDB-ALT-190501-862,This allele was mapped to ENSDARG00000104134 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-411,ZDB-ALT-190501-863,This allele was mapped to ENSDARG00000099098 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-402,ZDB-ALT-190501-864,This allele was mapped to ENSDARG00000067784 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-426,ZDB-ALT-190501-865,This allele was mapped to ENSDARG00000102438 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-165,ZDB-ALT-190501-866,This allele was mapped to ENSDARG00000088631 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-275,ZDB-ALT-190501-867,This allele was mapped to ENSDARG00000053062 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-271,ZDB-ALT-190501-868,This allele was mapped to ENSDARG00000001937 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-317,ZDB-ALT-190501-869,This allele was mapped to ENSDARG00000105983 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-314,ZDB-ALT-190501-870,This allele was mapped to ENSDARG00000068104 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-140,ZDB-ALT-190501-871,This allele was mapped to ENSDARG00000078775 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-270,ZDB-ALT-190501-872,This allele was mapped to ENSDARG00000098597 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-120,ZDB-ALT-190501-873,This allele was mapped to ENSDARG00000099838 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-416,ZDB-ALT-190501-874,This allele was mapped to ENSDARG00000099747 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-341,ZDB-ALT-190501-875,This allele was mapped to ENSDARG00000033587 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-309,ZDB-ALT-190501-876,This allele was mapped to ENSDARG00000098253 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-623,ZDB-ALT-190501-877,This allele was mapped to ENSDARG00000098909 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-566,ZDB-ALT-190501-878,This allele was mapped to ENSDARG00000067801 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-320,ZDB-ALT-190501-879,This allele was mapped to ENSDARG00000060200 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-368,ZDB-ALT-190501-880,This allele was mapped to ENSDARG00000103139 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-234,ZDB-ALT-190501-881,This allele was mapped to ENSDARG00000078024 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-576,ZDB-ALT-190501-882,This allele was mapped to ENSDARG00000089356 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-284,ZDB-ALT-190501-883,This allele was mapped to ENSDARG00000079876 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-282,ZDB-ALT-190501-884,This allele was mapped to ENSDARG00000077959 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-113,ZDB-ALT-190501-885,This allele was mapped to ENSDARG00000073822 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-395,ZDB-ALT-190501-886,This allele was mapped to ENSDARG00000056910 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-246,ZDB-ALT-190501-887,This allele was mapped to ENSDARG00000086098 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-529,ZDB-ALT-190501-888,This allele was mapped to ENSDARG00000038891 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-99,ZDB-ALT-190501-889,This allele was mapped to ENSDARG00000046021 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-71,ZDB-ALT-190501-890,This allele was mapped to ENSDARG00000100399 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-94,ZDB-ALT-190501-891,This allele was mapped to ENSDARG00000057582 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-37,ZDB-ALT-190501-892,This allele was mapped to ENSDARG00000030778 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-452,ZDB-ALT-190501-893,This allele was mapped to ENSDARG00000061421 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-53,ZDB-ALT-190501-894,This allele was mapped to ENSDARG00000051762 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-74,ZDB-ALT-190501-895,This allele was mapped to ENSDARG00000105029 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-448,ZDB-ALT-190501-896,This allele was mapped to ENSDARG00000104160 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-562,ZDB-ALT-190501-897,This allele was mapped to ENSDARG00000104638 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-191,ZDB-ALT-190501-898,This allele was mapped to ENSDARG00000100344 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-141,ZDB-ALT-190501-899,This allele was mapped to ENSDARG00000100186 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-445,ZDB-ALT-190501-900,This allele was mapped to ENSDARG00000102191 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-420,ZDB-ALT-190501-901,This allele was mapped to ENSDARG00000101888 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-43,ZDB-ALT-190501-902,This allele was mapped to ENSDARG00000098418 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-606,ZDB-ALT-190501-903,This allele was mapped to ENSDARG00000098418 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-613,ZDB-ALT-190501-904,This allele was mapped to ENSDARG00000098418 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-84,ZDB-ALT-190501-905,This allele was mapped to ENSDARG00000102255 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-260,ZDB-ALT-190501-906,This allele was mapped to ENSDARG00000101657 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-441,ZDB-ALT-190501-907,This allele was mapped to ENSDARG00000103731 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-205,ZDB-ALT-190501-908,This allele was mapped to ENSDARG00000102800 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-398,ZDB-ALT-190501-909,This allele was mapped to ENSDARG00000099322 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-598,ZDB-ALT-190501-910,This allele was mapped to ENSDARG00000104539 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-578,ZDB-ALT-190501-911,This allele was mapped to ENSDARG00000100473 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-595,ZDB-ALT-190501-912,This allele was mapped to ENSDARG00000090361 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-36,ZDB-ALT-190501-913,This allele was mapped to ENSDARG00000075985 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-294,ZDB-ALT-190501-914,This allele was mapped to ENSDARG00000104551 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-258,ZDB-ALT-190501-915,This allele was mapped to ENSDARG00000003803 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-137,ZDB-ALT-190501-916,This allele was mapped to ENSDARG00000105571 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-612,ZDB-ALT-190501-917,This allele was mapped to ENSDARG00000104937 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-283,ZDB-ALT-190501-918,This allele was mapped to ENSDARG00000086489 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-265,ZDB-ALT-190501-919,This allele was mapped to ENSDARG00000098983 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-28,ZDB-ALT-190501-920,This allele was mapped to ENSDARG00000102476 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-624,ZDB-ALT-190501-921,This allele was mapped to ENSDARG00000105889 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-523,ZDB-ALT-190501-922,This allele was mapped to ENSDARG00000055476 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-413,ZDB-ALT-190501-923,This allele was mapped to ENSDARG00000091359 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-171,ZDB-ALT-190501-924,This allele was mapped to ENSDARG00000067567 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-437,ZDB-ALT-190501-925,This allele was mapped to ENSDARG00000071636 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-417,ZDB-ALT-190501-926,This allele was mapped to ENSDARG00000105889 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-471,ZDB-ALT-190501-927,This allele was mapped to ENSDARG00000098204 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-132,ZDB-ALT-190501-928,This allele was mapped to ENSDARG00000087012 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-204,ZDB-ALT-190501-929,This allele was mapped to ENSDARG00000058991 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-561,ZDB-ALT-190501-930,This allele was mapped to ENSDARG00000098597 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190501-472,ZDB-ALT-190501-931,This allele was mapped to ENSDARG00000036281 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-20,ZDB-ALT-190612-25,This allele was mapped to ENSDARG00000040928 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-36,ZDB-ALT-190612-26,This allele was mapped to ENSDARG00000091044 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-56,ZDB-ALT-190612-27,This allele was mapped to ENSDARG00000075992 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-18,ZDB-ALT-190612-28,This allele was mapped to ENSDARG00000078641 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-24,ZDB-ALT-190612-29,This allele was mapped to ENSDARG00000079014 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-45,ZDB-ALT-190612-30,This allele was mapped to ENSDARG00000054534 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-42,ZDB-ALT-190612-31,This allele was mapped to ENSDARG00000088362 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-11,ZDB-ALT-190612-32,This allele was mapped to ENSDARG00000075935 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-57,ZDB-ALT-190612-33,This allele was mapped to ENSDARG00000059905 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-21,ZDB-ALT-190612-34,This allele was mapped to ENSDARG00000077103 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-15,ZDB-ALT-190612-35,This allele was mapped to ENSDARG00000069929 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-58,ZDB-ALT-190612-36,This allele was mapped to ENSDARG00000090925 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-34,ZDB-ALT-190612-37,This allele was mapped to ENSDARG00000088572 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-23,ZDB-ALT-190612-38,This allele was mapped to ENSDARG00000088043 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-22,ZDB-ALT-190612-39,This allele was mapped to ENSDARG00000060458 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-48,ZDB-ALT-190612-40,This allele was mapped to ENSDARG00000074093 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-29,ZDB-ALT-190612-41,This allele was mapped to ENSDARG00000087737 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-39,ZDB-ALT-190612-42,This allele was mapped to ENSDARG00000034105 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-26,ZDB-ALT-190612-43,This allele was mapped to ENSDARG00000036281 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-33,ZDB-ALT-190612-44,This allele was mapped to ENSDARG00000090020 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-16,ZDB-ALT-190612-45,This allele was mapped to ENSDARG00000076795 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-43,ZDB-ALT-190612-46,This allele was mapped to ENSDARG00000089006 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-46,ZDB-ALT-190612-47,This allele was mapped to ENSDARG00000077651 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-47,ZDB-ALT-190612-48,This allele was mapped to ENSDARG00000087940 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-35,ZDB-ALT-190612-49,This allele was mapped to ENSDARG00000087272 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-53,ZDB-ALT-190612-50,This allele was mapped to ENSDARG00000089842 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-31,ZDB-ALT-190612-51,This allele was mapped to ENSDARG00000091603 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-13,ZDB-ALT-190612-52,This allele was mapped to ENSDARG00000059899 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-44,ZDB-ALT-190612-53,This allele was mapped to ENSDARG00000010940 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-49,ZDB-ALT-190612-54,This allele was mapped to ENSDARG00000079822 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-51,ZDB-ALT-190612-55,This allele was mapped to ENSDARG00000063695 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-27,ZDB-ALT-190612-56,This allele was mapped to ENSDARG00000040535 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-25,ZDB-ALT-190612-57,This allele was mapped to ENSDARG00000074139 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-54,ZDB-ALT-190612-58,This allele was mapped to ENSDARG00000077508 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-50,ZDB-ALT-190612-59,This allele was mapped to ENSDARG00000054527 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-8,ZDB-ALT-190612-60,This allele was mapped to ENSDARG00000009624 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-38,ZDB-ALT-190612-61,This allele was mapped to ENSDARG00000086970 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-10,ZDB-ALT-190612-62,This allele was mapped to ENSDARG00000086970 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-28,ZDB-ALT-190612-63,This allele was mapped to ENSDARG00000056339 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-41,ZDB-ALT-190612-64,This allele was mapped to ENSDARG00000088018 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-37,ZDB-ALT-190612-65,This allele was mapped to ENSDARG00000036284 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-9,ZDB-ALT-190612-66,This allele was mapped to ENSDARG00000086404 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-30,ZDB-ALT-190612-67,This allele was mapped to ENSDARG00000077805 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-17,ZDB-ALT-190612-68,This allele was mapped to ENSDARG00000093477 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-40,ZDB-ALT-190612-69,This allele was mapped to ENSDARG00000069895 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-12,ZDB-ALT-190612-70,This allele was mapped to ENSDARG00000086731 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-32,ZDB-ALT-190612-71,This allele was mapped to ENSDARG00000060458 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-14,ZDB-ALT-190612-72,This allele was mapped to ENSDARG00000018648 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-55,ZDB-ALT-190612-73,This allele was mapped to ENSDARG00000094325 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-19,ZDB-ALT-190612-74,This allele was mapped to ENSDARG00000079349 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-190612-52,ZDB-ALT-190612-75,This allele was mapped to ENSDARG00000086694 by the ZMP Project,feature,ZDB-PUB-130425-4,feature
+ZDB-EXTNOTE-191219-4,ZDB-ALT-191219-5,Insertion is in the first intron of gucy2c (ENSDARG00000014320).,feature,ZDB-PUB-190610-4,feature
+ZDB-EXTNOTE-200922-2,ZDB-ALT-200911-6,"Generation of pdgfrb:CreERT2 transgenic fish was achieved by CRISPR/Cas9-mediated targeted knock-in of a zebrafish codon-optimized tamoxifen-inducible CreERT2 sequence 5’ of the open reading frame (ORF) of the pdgfrb gene (ENSDARG00000100897) as described by Kesavan et al., 2018.",feature,ZDB-PUB-200102-5,feature
+ZDB-EXTNOTE-200922-1,ZDB-ALT-200915-4,"TetA AmCyan transgengic fish was achieved by CRISPR/Cas9-mediated targeted knock-in of a tetracycline-inducible transcriptional activator cassette fused via p2a to AmCyan (Knopf et al., 2010), 5’ of the open reading frame (ORF) of the pdgfrb gene (ENSDARG00000100897) as described by Kesavan et al., 2018.",feature,ZDB-PUB-200102-5,feature
+ZDB-EXTNOTE-201015-5,ZDB-ALT-201014-5,"The protocol used to generate this line is unknown. The only information we obtained when we received the line was the name. To confirm the presence of this transgene, fish were genotyped via PCR, using a forward primer (sequence 5'-GGTGGGTATTAAATGTGGATATCATTGTT-GCCAAG-3') blasting ≈500 bp upstream of the dll4 (ENSDARG00000070425) start codon, and a reverse primer (sequence 5'-TCAACTGTCTTTGACCTTTGTTACTACTCTCTTCC-3') blasting the final part of the Gal4 DNA binding domain coding region. The PCR gave a fragment of ≈1000 bp. Sequencing of the isolated fragment confirms the presence of the Gal4 DNA binding domain coding region downstream of the dll4 putative promoter region.",feature,ZDB-PUB-200102-5,feature
+ZDB-EXTNOTE-210127-6,ZDB-ALT-070426-3,"Mutation in lmx1b (ENSDARG00000068365) that introduces a premature termination codon at 34,129,111 (T>A) on chromosome 8. Overall ear size reduced, abnormally formed semicircular canals, and slightly reduced otoliths.",feature,ZDB-PUB-160331-1,variant with IDZDB-FGMD-190401-19401
+ZDB-EXTNOTE-210127-16,ZDB-ALT-070427-1,"G>A mutation at position 35,593,144 on chromosome 13 in jag1b (ENSDARG00000013168) disrupting a splice donor site resulting in a frameshift. Antero-posterior axis is shortened in the ear.",feature,ZDB-PUB-160331-1,variant with IDZDB-FGMD-190401-9206
+ZDB-EXTNOTE-210127-763,ZDB-ALT-090714-8,"Family	pa008	22; 1,567,618	Plus	strand, 	Target gene-	ENSDARG00000071738	180	bp	upstream	XM_001922442",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-956,ZDB-ALT-110210-8,"The integration locus is 32,151 bp downstream of ENSDARG00000078279. There are multiple insertions (see Teh et al.,2010).",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-961,ZDB-ALT-110412-12,"Poon et al., (2010) report the insertion is 114.8 kb downstream of brd2b, ENSDARG00000046087. GFP is expressed in the atrium, kidney, ear, and neuromasts at 3 dpf.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-962,ZDB-ALT-110412-13,"Poon et al., (2010) report the insert is 21.5 kb upstream of si:dkey-1p9.2, ENSDARG00000057284. GFP is expressed in the atrium, eyes, brain, notochord, and neural crest at 3 dpf.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-971,ZDB-ALT-110412-8,"Poon et al., (2010) report that the insert is located in an intron of si:ch211-51g4.4, ENSDARG00000061603. GFP is expressed in the myocardium, vasculature, eyes, ear, lateral line, somites at 3 dpf.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-975,ZDB-ALT-110621-10,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000035023.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-976,ZDB-ALT-110621-11,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000029146.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-977,ZDB-ALT-110621-12,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000027618.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-984,ZDB-ALT-110621-22,"Kondrychyn et al., (2009), report that the insert is located in an intron of ENSDARG00000008548.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-994,ZDB-ALT-110622-12,"(Kondrychyn et al., 2009), report that the insert is located intron of ENSDARG00000063147.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-995,ZDB-ALT-110622-13,"(Kondrychyn et al., 2009), report that the insert is located in an exon of ENSDARG00000039801.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-997,ZDB-ALT-110622-16,"(Kondrychyn et al., 2009), report that the insert is located 0.7 kb downstream of ENSDARG00000027523.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-998,ZDB-ALT-110622-17,"(Kondrychyn et al., 2009), report that the insert is located 138.0 kb downstream of ENSDARG00000036664.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1007,ZDB-ALT-110622-29,"Kondrychyn et al., (2009), report that the insert is located 56.5 kb downstream of ENSDARG00000042404.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1009,ZDB-ALT-110622-31,"Kondrychyn et al., (2009), report that the insert is located 8.4 kb upstream of ENSDARG00000031848.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1011,ZDB-ALT-110622-34,"Kondrychyn et al., (2009), report that the insert is located in an intron of ENSDARG00000068028.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1014,ZDB-ALT-110622-38,"Kondrychyn et al., (2009), report that the insert is located 34.5 kb upstream of ENSDARG00000063068.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1017,ZDB-ALT-110622-41,"Kondrychyn et al., (2009), report that the insert is located in an exon of ENSDARG00000060235.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1018,ZDB-ALT-110622-5,"Kondrychyn et al., (2009), report that the insert is located in an intron of ENSDARG00000034820.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1024,ZDB-ALT-110623-10,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000005159.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1029,ZDB-ALT-110623-16,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000061078.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1035,ZDB-ALT-110623-22,"Kondrychyn et al., (2009) report that the insert is located 8.8 kb upstream of ENSDARG00000039174.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1042,ZDB-ALT-110628-1,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000071685",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1043,ZDB-ALT-110628-10,"Kondrychyn et al., (2009) report that the insert is located 3.5 kb downstream of ENSDARG00000034344.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1046,ZDB-ALT-110628-15,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000033473.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1050,ZDB-ALT-110628-19,"Kondrychyn et al., (2009) report that the insert is located 2.3 downstream of ENSDARG00000003909.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1051,ZDB-ALT-110628-21,"Kondrychyn et al., (2009) report that the insert is located 3.1 kb downstream of ENSDARG00000070600.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1060,ZDB-ALT-110628-7,"Kondrychyn et al., (2009) report that the insert is located in an intron of ENSDARG00000039489.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1062,ZDB-ALT-110628-9,"Kondrychyn et al., (2009) report that the insert is located 0.7 kb downstream of ENSDARG00000068272.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1073,ZDB-ALT-110630-19,"Kondrychyn et al., (2009) report that the insert is located 14.3 kb downstream of ENSDARG00000052459.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1076,ZDB-ALT-110630-3,"Kondrychyn et al., (2009) report the insert is located 36.7 kb upstream of ENSDARG00000067804.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1078,ZDB-ALT-110630-5,"Kondrychyn et al., (2009) report the insert is located 2.7 kb upstream of ENSDARG00000041157.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1084,ZDB-ALT-110701-11,"Kondrychyn et al., (2009) report the insert is located 38.8 kb downstream of ENSDARG00000061233.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1086,ZDB-ALT-110701-13,"Kondrychyn et al., (2009) report the insert is located 1.9 kb downstream of ENSDARG00000025013.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1092,ZDB-ALT-110701-2,"Kondrychyn et al., (2009) report the insert is located 3.2 kb upstream of ENSDARG00000059638.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1100,ZDB-ALT-110701-30,"Kondrychyn et al., (2009) report the insert is located 40.7 kb upstream of ENSDARG00000061989.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1104,ZDB-ALT-110701-7,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000060554.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1110,ZDB-ALT-110706-13,"Kondrychyn et al., (2009) report the insert is located 73.3 kb downstream of ENSDARG00000070954.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1114,ZDB-ALT-110706-19,"Kondrychyn et al., (2009) report the insert is located 36.2 kb downstream of ENSDARG00000069561. ",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1118,ZDB-ALT-110706-23,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000023771.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1122,ZDB-ALT-110706-29,"Kondrychyn et al., (2009) report the insert is located 3.3 kb downstream of ENSDARG00000069110.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1125,ZDB-ALT-110706-31,"Kondrychyn et al., (2009) report the insert is located in an exon of ENSDARG00000062934.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1126,ZDB-ALT-110706-33,"Kondrychyn et al., (2009) report the insert is located 26.4 kb downstream of ENSDARG00000013434.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1134,ZDB-ALT-110706-42,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000070956.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1135,ZDB-ALT-110706-43,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000056252.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1145,ZDB-ALT-110706-55,"Kondrychyn et al., (2009) report the insert is located 1.3 kb downstream of ENSDARG00000036952.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1146,ZDB-ALT-110706-56,"Kondrychyn et al., (2009) report the insert is located 31.6 kb upstream of ENSDARG00000067536.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1148,ZDB-ALT-110706-8,"Kondrychyn et al., (2009) report the insert is located 3.6 kb downstream of ENSDARG00000037916.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1154,ZDB-ALT-110707-5,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000008380.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1156,ZDB-ALT-110707-7,"Kondrychyn et al., (2009) report the insert is located 2.6 kb upstream of ENSDARG00000020147.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1161,ZDB-ALT-110711-12,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000061397.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1162,ZDB-ALT-110711-13,"Kondrychyn et al., (2009) report the insert is located 0.6 kb downstream of ENSDARG00000060656.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1163,ZDB-ALT-110711-14,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000031774.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1167,ZDB-ALT-110711-8,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000069487.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1168,ZDB-ALT-110711-9,"Kondrychyn et al., (2009) report the insert is located 3.8 kb downstream of ENSDARG00000034820.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1171,ZDB-ALT-110712-12,"Kondrychyn et al., (2009) report the insert is located 13.2 kb upstream of ENSDARG00000044010.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1174,ZDB-ALT-110712-15,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000071593.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1180,ZDB-ALT-110712-20,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000013834.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1186,ZDB-ALT-110712-29,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000059642.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1191,ZDB-ALT-110712-35,"Kondrychyn et al., (2009) report the insert is located 16.6 kb upstream of ENSDARG00000053299.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1192,ZDB-ALT-110712-36,"Kondrychyn et al., (2009) report the insert is located 20.7 kb downstream of ENSDARG00000059149.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1193,ZDB-ALT-110712-37,"Kondrychyn et al., (2009) report the insert is located 153.7 kb upstream of ENSDARG00000069482.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1194,ZDB-ALT-110712-39,"Kondrychyn et al., (2009) report the insert is located in an exon of ENSDARG00000058340.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1196,ZDB-ALT-110712-40,"Kondrychyn et al., (2009) report the insert is located 24.5 kb downstream of ENSDARG00000039947.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1203,ZDB-ALT-110712-5,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000069680.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1206,ZDB-ALT-110712-53,"Kondrychyn et al., (2009) report the insert is located intron of ENSDARG00000033473.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1208,ZDB-ALT-110712-55,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000027564.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1214,ZDB-ALT-110712-63,"Kondrychyn et al., (2009) report the insert is located 14.2 kb downstream of ENSDARG00000070026.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1226,ZDB-ALT-110713-2,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000027824.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1227,ZDB-ALT-110713-3,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000009170.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1228,ZDB-ALT-110713-4,"Kondrychyn et al., (2009) report the insert is located 13.1 kb upstream of ENSDARG00000026313.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1229,ZDB-ALT-110713-5,"Kondrychyn et al., (2009) report the insert is located in an intron of ENSDARG00000062937.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1365,ZDB-ALT-150528-2,"The insertion location the Et(shhb:KALTA4,UAS-E1b:mCherry) transgene in this fish was determined to be approximately 22kb upstream of ENSDARG00000058274 in Zv8.",feature,ZDB-PUB-160331-1,variant
+ZDB-EXTNOTE-210127-1484,ZDB-ALT-191219-5,Insertion is in the first intron of gucy2c (ENSDARG00000014320).,feature,ZDB-PUB-190610-4,variant
