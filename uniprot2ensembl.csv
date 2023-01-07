@@ -1,4 +1,4 @@
-uniprot	db	ensdarg
+accession	db	ensdarg
 Q5PRD0	Ensembl	ENSDARG00000013078
 Q6PC29	Ensembl	ENSDARG00000067626
 Q6NY64	Ensembl	ENSDARG00000102009
