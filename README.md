@@ -15,7 +15,7 @@ The tables we download are:
  to_keep.csv (provided by dushy at https://ftp.ebi.ac.uk/pub/contrib/dushi/zfin/to_keep.dat)
  to_delete.csv (provided by dushy at https://ftp.ebi.ac.uk/pub/contrib/dushi/zfin/to_delete.dat)
  ncbi_map (https://ftp.ncbi.nlm.nih.gov/gene/DATA/GENE_INFO/Non-mammalian_vertebrates/Danio_rerio.gene_info.gz)
- refseq2ncbi.csv (created using gradle -DapiKey=3b0a6a579791d9b134b44c6559fbb4434708 -DncbiLoadInput=./to_keep_primary_ids.txt -DncbiLoadOutput=./refseq2ncbi batchNCBIFetchByRefSeqTask)
+ refseq2ncbi.csv (created using gradle -DapiKey=3b0a6a579791d9b134b44c6559fbb4434708 -DncbiLoadInput=./to_keep_primary_ids.txt -DncbiLoadOutput=./refseq2ncbi batchNCBIFetchByRefSeqTask ) (see: zfin-8395 branch in rtaylorzfin)
 
 In total, there should be the following tables to start out: db_link, refseq2ncbi, extnote_note, to_delete, feature_marker_relationship, to_keep, marker, uniprot2ensembl, ncbi_map.
 All are included in the file zfin-db-slice.db.gz.
